@@ -13,8 +13,9 @@ modify the settings according to your project
 ```
 
 ### Compile the project
+```
 go to the directory: "target\classes\com\br\cirilo\FoiBrinks"
-
+```
 ### Run the class with the command:
 ```
  java DemoApplication.class
