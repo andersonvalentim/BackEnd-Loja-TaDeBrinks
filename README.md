@@ -6,8 +6,9 @@ To run the project you must have Java installed on your machine.
 ```
 ### Set database properties
 ```
-go to the directory:"target\classes\application.properties" 
-
+go to the directory:"target\classes\application.properties"
+```
+``` 
 modify the settings according to your project
 ```
 
